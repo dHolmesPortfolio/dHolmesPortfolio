@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi, I’m David 👋 Early-stage web developer focused on web accessibility. I build WCAG AA–compliant sites for charities as part of my learning journey in programming.
+
+I'm currently doing a course in JavaScript and hope to build some applications soon
 
 <!--
 **dHolmesWebsite/dHolmesWebsite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
