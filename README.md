@@ -1,6 +1,8 @@
 Hi, I’m David 👋 Early-stage web developer focused on web accessibility. I build WCAG AA–compliant sites for charities as part of my learning journey in programming.
 
-**WordPress WCAG Theme Development & Mega Menu**
+**Projects**
+
+  - **WordPress WCAG Theme Development & Mega Menu**
 
 This is my biggest project so far, taking nearly **9 months** to complete.
 
@@ -22,11 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-** Project Title Here
-_Description coming soon._
 
-- Key feature
-- Key feature
-- Key feature
 
 -->
