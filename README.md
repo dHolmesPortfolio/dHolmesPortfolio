@@ -1,14 +1,13 @@
-Hi, I’m David 👋 Early-stage web developer focused on web accessibility. I build WCAG AA–compliant sites for charities as part of my learning journey in programming.
+Hi, I’m David 👋 a web developer focused on web accessibility. I build WCAG AA–compliant sites for charities as part of my learning journey in programming.
 
 **Projects**
 
   - **WordPress WCAG Theme Development & Mega Menu**
 
-This is my biggest project so far, taking nearly **9 months** to complete.
+A WordPress Theme Project.
 
-The goal was to build a reusable WordPress theme backend, I wanted to be able to repurposed it for future projects, requiring only CSS and other visual changes. Accessibility was the main key focus throughout, with it based around **WCAG 2.1 AA** standards.
-The second biggest part of this project was the Mega menu build.
-Read more here https://github.com/dHolmesPortfolio/HolmesPortfolio
+The theme was built from scratch with a strong focus on accessibility and performance, following WCAG 2.1 AA guidelines. 
+The aim was to create a reusable base theme that could be adapted for future websites. https://github.com/dHolmesPortfolio/HolmesPortfolio
 
 
 
