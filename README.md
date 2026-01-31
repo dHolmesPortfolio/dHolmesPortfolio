@@ -1,7 +1,7 @@
 Hi, I’m David 👋 a web developer focused on web accessibility. 
 
 **Projects**
-##A WordPress Theme Project.##
+## A WordPress Theme Project.
   - **WordPress WCAG Theme Development & Mega Menu** - https://github.com/dHolmesPortfolio/HolmesPortfolio
 The theme was built from scratch with a strong focus on accessibility and performance, following WCAG 2.1 AA guidelines. 
 The aim was to create a reusable base theme that could be adapted for future websites. 
