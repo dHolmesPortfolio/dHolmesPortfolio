@@ -1,4 +1,4 @@
-Hi, I’m David 👋 a web developer focused on web accessibility. I build WCAG AA–compliant sites for charities as part of my learning journey in programming.
+Hi, I’m David 👋 a web developer focused on web accessibility. 
 
 **Projects**
 
