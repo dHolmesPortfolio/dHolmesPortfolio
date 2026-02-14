@@ -2,7 +2,7 @@ Hi, I’m David 👋 a web developer focused on web accessibility.
 
 # Projects
 ## HolmesPortfolio - CheckinApp
- - **This web application was created to showcase and practise JavaScript skills.**
+ - **This web application was created to showcase and practise JavaScript skills.** - https://github.com/dHolmesPortfolio/HolmesPortfolio-CheckinApp
 
   It has a check-in and check-out button
   Collect some data and uses an API
